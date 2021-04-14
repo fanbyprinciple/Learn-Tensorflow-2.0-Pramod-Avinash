@@ -22,7 +22,7 @@ imdb_reviews, squad
 mnist, imagenet2012, coco2014, cifar10
 moving_mnist, starcraft_video, bair_robot_pushing_small, Nsynth, titanic, iris
 
-![](chapter1.png)
+![](img/chapter1.png)
 
 # chapter 2
 
@@ -30,6 +30,15 @@ Supervised Learning and Tensorflow
 
 ## Linear Regression Model using TensorFlow and Keras
 
-https://colab.research.google.com/drive/1pnLmHcKy22pbcJ_vDtn43ArwGQLDbXQU#scrollTo=qjv4pe1uWaRM
+![](img/ch2_linear_regression.png)
 
-page 34.
+Custom Linear Regression on Diabetes test
+
+![](img/ch2_linear_regression_custom.png)
+
+How to train the data though.
+
+Page 51.
+
+
+
