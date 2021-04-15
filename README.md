@@ -40,5 +40,11 @@ How to train the data though.
 
 Page 51.
 
+## Logistic Regression
 
+![](ch2_logistic_regression_seaborn.png)
+
+https://colab.research.google.com/drive/1KOOjBvur0UeB_MDClIX6CoWrqd0JnZVo#scrollTo=Oxcj9RalOuq2
+
+page 57
 
