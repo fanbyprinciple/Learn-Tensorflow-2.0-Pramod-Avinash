@@ -48,3 +48,33 @@ https://colab.research.google.com/drive/1KOOjBvur0UeB_MDClIX6CoWrqd0JnZVo#scroll
 
 page 57
 
+## bagging and boosting
+
+It is a technique wherin we build independent models/ predictors using random subsample/bootstrap of data of each of the models/predictors.
+
+bagging all models train independently and finally the average is taken
+
+boosting all models train sequentially and each model learns from the previous model.
+
+## Gradient Boosting
+
+Here instead of incrementing the weights of the misclassified learner we optimize the lossfunction of the previous learner.
+
+![](ch2_gradient_boosting.png)
+
+# chapter 3
+
+Neural Networks and Deep Learning with TensorFlow
+
+## Neural net fashion mnist
+
+simple nn
+
+![](ch3_simplenn.png)
+
+Deep nn
+
+![](ch3_deepnn.png)
+
+## Estimator using iris
+
