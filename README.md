@@ -42,7 +42,7 @@ Page 51.
 
 ## Logistic Regression
 
-![](ch2_logistic_regression_seaborn.png)
+![](img/ch2_logistic_regression_seaborn.png)
 
 https://colab.research.google.com/drive/1KOOjBvur0UeB_MDClIX6CoWrqd0JnZVo#scrollTo=Oxcj9RalOuq2
 
@@ -60,7 +60,7 @@ boosting all models train sequentially and each model learns from the previous m
 
 Here instead of incrementing the weights of the misclassified learner we optimize the lossfunction of the previous learner.
 
-![](ch2_gradient_boosting.png)
+![](img/ch2_gradient_boosting.png)
 
 # chapter 3
 
@@ -70,11 +70,39 @@ Neural Networks and Deep Learning with TensorFlow
 
 simple nn
 
-![](ch3_simplenn.png)
+![](img/ch3_simplenn.png)
 
 Deep nn
 
-![](ch3_deepnn.png)
+![](img/ch3_deepnn.png)
 
 ## Estimator using iris
+
+![](img/ch3_iris_dataset.png)
+
+# chapter 4
+
+Images with Tensorflow
+
+![](img/ch4_fashion_convnet.png)
+
+Advanced Convolutional Networks 
+
+1. VGG-16
+2. Inception
+3. ResNet
+4. DenseNet
+
+### Autoencoders
+
+A type of neural network used to generate output data in same unsupervised manner as for input data
+
+autoencoder compresses the data to a form after encoding then decodes it.
+
+Var is generating model same as autoencoder except it enforces autoencoder to follow a zeromean and a unit variance Gaussian distribution.
+
+https://www.kaggle.com/fanbyprinciple/fashion-mnist-with-variational-autoencoder/edit
+
+Page 115
+
 
