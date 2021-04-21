@@ -105,4 +105,25 @@ https://www.kaggle.com/fanbyprinciple/fashion-mnist-with-variational-autoencoder
 
 Page 115
 
+![](ch4_vae.gif)
+
+# chapter 5
+
+Natural Language Processing with TensorFlow 2.0
+
+Some of the applications of NLP in text category 
+
+1. Reviews/ text classification
+2. Text summarization
+3. spam detection
+4. audience segmentation 
+5. Chatbot
+
+### Text preprocessing
+
+https://colab.research.google.com/drive/1ayqR_2t54Yw1ZCuljExORVMa8d6d6eIA
+
+page 125
+
+
 
