@@ -22,7 +22,7 @@ imdb_reviews, squad
 mnist, imagenet2012, coco2014, cifar10
 moving_mnist, starcraft_video, bair_robot_pushing_small, Nsynth, titanic, iris
 
-![](img/chapter1.png)
+![](img/ch1.png)
 
 # chapter 2
 
@@ -141,7 +141,19 @@ https://www.kaggle.com/fanbyprinciple/review-analysis-through-nlp-tensorflow/edi
 
 page 134
 
+https://projector.tensorflow.org/?config=ashwin
 
+![](img/ch5_input_amazon.png)
 
+# Chapter 6
 
+Tensorflow models in Production
+
+creating a linear regression model
+
+![](ch6_simple_linear_regression.png)
+
+creating a REST Service using flask
+
+page 152
 
