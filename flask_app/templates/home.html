@@ -1,0 +1,21 @@
+<title>Weight predictor</title>
+<link rel="stylesheet" href="{{ url_for('static', filename='home.css') }}">
+<div class="login-page">
+    <div class="form">
+      <!-- <form class="register-form">
+        <input type="text" placeholder="name"/>
+        <input type="password" placeholder="password"/>
+        <input type="text" placeholder="email address"/>
+        <button>create</button>
+        <p class="message">Already registered? <a href="#">Sign In</a></p>
+      </form> -->
+      <form class="login-form" action="/predict" method="post">
+        <input type="text" name='height' placeholder="Height" value={{inputheight}} >
+        <input type="text" name='weight' placeholder="Weight" readonly value={{prediction}} >
+        <input type="submit" class="submitbutton" value="predict!">
+        <p class="message">Enter height to get weight through linear regression.</p>
+      </form>
+    </div>
+  </div>
+
+<script</script>

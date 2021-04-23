@@ -1,6 +1,9 @@
 # Learn-Tensorflow-2.0-Pramod-Avinash
 Implementing code given in the book
 
+This book also showcases how to deploy a machine learning application using flask
+
+![](img/ch6_height_to_weight.gif)
 
 # Chapter 1 
 
@@ -151,9 +154,20 @@ Tensorflow models in Production
 
 creating a linear regression model
 
-![](ch6_simple_linear_regression.png)
+![](img/ch6_simple_linear_regression.png)
 
-creating a REST Service using flask
+creating a REST Service using flask from above model
 
-page 152
+https://www.kaggle.com/fanbyprinciple/simple-linear-regression-weights-vs-height/edit/run/60493392
 
+![](img/ch6_height_to_weight.gif)
+
+Working with fashion mnist data
+
+![](img/ch6_pullover.png)
+
+The book further suggests that I use a google cloud server for deploying  akubernetes based application.
+
+# Takeaway from book
+
+Maybe deploying a flask application. Rest the book is just code with slight introduction.
